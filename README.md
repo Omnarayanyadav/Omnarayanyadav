@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Omnarayanyadav
-- 👀 I’m interested in web development,python,machine learning
-- 🌱 I’m currently learning python
+- 👀 I’m interested in python,machine learning
+- 🌱 I’m currently learning python,ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me through:
+- facebook:https://www.facebook.com/omnarayan.yadav2001/
+- Linkedin:www.linkedin.com/in/omnarayan-yadav-5b8917176
 
 <!---
 Omnarayanyadav/Omnarayanyadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
