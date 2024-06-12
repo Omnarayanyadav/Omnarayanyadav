@@ -1,4 +1,4 @@
-# Hi there, I'm Omnarayanyadav 👋
+# Hi there, I'm Omnarayan yadav 👋
 
 ## About Me
 - 👀 I’m interested in Python and Machine Learning.
